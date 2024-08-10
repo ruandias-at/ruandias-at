@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ruandias-at/ruandias-at/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
