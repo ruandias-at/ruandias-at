@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack Developer<br>- Technologist in System Analysis 3rd Semester<br>- Network Engineering at UnB 1st Semester<br>- Brasília DF, Brazil</p>
+<p align="left">- Full Stack Developer<br>- Technologist in System Analysis 3rd Semester<br>- Network Engineering at UnB 2nd Semester<br>- Brasília DF, Brazil</p>
 
 ###
 
@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
@@ -30,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
 </div>
 
 ###
