@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Systems Developer and Analyst<br>- Full Stack Developer<br>- Network Engineering at UnB 4th Semester<br>- Brasília DF, Brazil</p>
+<p align="left">- Systems Developer and Analyst<br>- Full Stack Developer<br>- Network Engineering at UnB 5th Semester<br>- Brasília DF, Brazil</p>
 
 ###
 
