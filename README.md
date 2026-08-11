@@ -64,19 +64,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">Recently Played</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31dtz5sh4s3ubyuzgrdr5nzkvdje">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dtz5sh4s3ubyuzgrdr5nzkvdje&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
